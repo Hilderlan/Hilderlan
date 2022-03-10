@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 export class Info {
 
   name: string        = 'Hilderlan Almeida';
-  age: number         = 22;
+  age: number         = 23;
   nationality: string = 'Brazilian';
   university: string  = 'Universidade Federal do Piauí - UFPI';
-  occupation: string  = 'Back-end Developer, Intern';
+  occupation: string  = 'Software Engineer, Back-end';
   freetime: string[]  = ['Games', 'Manga', 'Animes'];
   
 }
